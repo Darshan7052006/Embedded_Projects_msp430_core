@@ -827,11 +827,11 @@
    {
       "directory" : "D:/Embedded_Projects_msp430/motor_health_monitoring_system/Debug",
       "command"   : "clang++ -I\"C:/ti/ccs2041/ccs/ccs_base/msp430/include\" -I\"D:/Embedded_Projects_msp430/motor_health_monitoring_system\" -I\"D:/Embedded_Projects_msp430/motor_health_monitoring_system/GrLib/grlib\" -I\"D:/Embedded_Projects_msp430/motor_health_monitoring_system/GrLib/fonts\" -I\"C:/ti/ccs2041/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
-      "file"      : "D:/Embedded_Projects_msp430/motor_health_monitoring_system/main.c"
+      "file"      : "D:/Embedded_Projects_msp430/motor_health_monitoring_system/system_pre_init.c"
    },
    {
       "directory" : "D:/Embedded_Projects_msp430/motor_health_monitoring_system/Debug",
       "command"   : "clang++ -I\"C:/ti/ccs2041/ccs/ccs_base/msp430/include\" -I\"D:/Embedded_Projects_msp430/motor_health_monitoring_system\" -I\"D:/Embedded_Projects_msp430/motor_health_monitoring_system/GrLib/grlib\" -I\"D:/Embedded_Projects_msp430/motor_health_monitoring_system/GrLib/fonts\" -I\"C:/ti/ccs2041/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430G2553__ -xc",
-      "file"      : "D:/Embedded_Projects_msp430/motor_health_monitoring_system/system_pre_init.c"
+      "file"      : "D:/Embedded_Projects_msp430/motor_health_monitoring_system/motor_health_monitoring_system.c"
    }
 ]
