@@ -53,3 +53,29 @@ dkms.conf
 
 # debug information files
 *.dwo
+# Build output directories
+Debug/
+Release/
+
+# Generated dependency files
+*.d
+*.mk
+*.map
+
+# Object and binary files
+*.o
+*.out
+*.hex
+*.bin
+
+# Temporary files
+*.tmp
+*.log
+
+# Eclipse/CCS metadata
+.metadata/
+.settings/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
