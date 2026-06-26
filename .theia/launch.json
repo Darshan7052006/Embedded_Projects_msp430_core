@@ -1,16 +1,23 @@
 {
-  // Use IntelliSense to learn about possible attributes.
-  // Hover to view descriptions of existing attributes.
-  "version": "0.2.0",
-  "configurations": [
-    {
-      "name": "motor_health_monitoring_system",
-      "type": "ccs-debug",
-      "request": "launch",
-      "projectInfo": {
-        "name": "motor_health_monitoring_system",
-        "resourceId": "/motor_health_monitoring_system"
-      }
-    }
-  ]
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "motor_health_monitoring_system",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "motor_health_monitoring_system",
+                "resourceId": "/motor_health_monitoring_system"
+            }
+        },
+        {
+            "name": "Voting_machine_prototype",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Voting_machine_prototype",
+                "resourceId": "/Voting_machine_prototype"
+            }
+        }
+    ]
 }
