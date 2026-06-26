@@ -114,7 +114,7 @@ void register_settings_for_gpio(){
     P2SEL2 &= ~(BIT6 | BIT7);
     P1DIR &= ~(SW1 | SW2 | SW3);
     P1DIR |= (LED1 | LED2);
-    P1OUT &= ~(LED1 | LED2);
+    P1OUT |= (LED1);
     P1REN |= (SW1 | SW2 | SW3);
     P1OUT |= (SW1 | SW2 | SW3);
     
